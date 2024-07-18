@@ -1,0 +1,13 @@
+body {
+    background-image: url(../Imgs/bg.jpg);
+    background-size: contain;
+    color: aliceblue;
+}
+
+.logo {
+    background-image: url(../Imgs/logo.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: 90px 90px;
+}
